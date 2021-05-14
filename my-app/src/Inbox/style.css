@@ -1,0 +1,13 @@
+.email {
+  background-color: lightgreen;
+  border-radius: 20px;
+  max-width: 300px;
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.pocet {
+  padding-left: 100px;
+}
